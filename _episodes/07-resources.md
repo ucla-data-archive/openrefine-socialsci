@@ -13,6 +13,10 @@ keypoints:
 
 # Lesson
 
+## Tidy Data references:
+* R for Data Science: Tidy data / Hadley Wickham: <https://r4ds.had.co.nz/tidy-data.html>
+* From Journal of Statistical Software: Tidy Data / Hadley Wickham <https://www.jstatsoft.org/article/view/v059i10>
+
 ## Using online resources to get help with OpenRefine
 
 OpenRefine is more than a simple data cleaning tool. People are using it for all sorts of activities. Here are some other resources that might prove useful.
