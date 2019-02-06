@@ -13,8 +13,13 @@ keypoints:
 - "OpenRefine is a powerful, free and open source tool that can be used for data cleaning."
 - "OpenRefine will automatically track any steps allowing you to backtrack as needed and providing a record of all work done"
 ---
+#
 
 # Lesson
+
+## Tidy Data references:
+* R for Data Science: Tidy data / Hadley Wickham: <https://r4ds.had.co.nz/tidy-data.html>
+* From Journal of Statistical Software: Tidy Data / Hadley Wickham <https://www.jstatsoft.org/article/view/v059i10>
 
 ## Motivations for the OpenRefine Lesson
 
