@@ -13,7 +13,6 @@ keypoints:
 - "OpenRefine is a powerful, free and open source tool that can be used for data cleaning."
 - "OpenRefine will automatically track any steps allowing you to backtrack as needed and providing a record of all work done"
 ---
-#
 
 # Lesson
 
